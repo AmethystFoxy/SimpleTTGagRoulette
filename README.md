@@ -6,13 +6,17 @@ Toon-up Gags are currently not implemented(They can be randomly selected, but th
 
 This was made on a Windows 10 Machine, unknown if it works on Linux or Mac. Most likely not. I won't be creating a Linux or Mac Version regardless.
 
-The Three Files in this repository are: 
-The Source File (Gag_Roulette_Wheel(Release 1.0.0).ahk), which was written in AHK or AutoHotKey which is a great open source library for making code for working with games.
-The Executable (Gag_Roulette_Wheel(Release 1.0.0).exe), which was Compiled using AHK.
-the Screen Location Configuration File (Gag_Location_Index_Battle.txt).
-And Finally the Content pack (phase_3.5.mf) used to darken the gag panel backgrounds, and lighten the gag panels.
+The Four Files in this repository are: 
 
-Some important things
+-The Source File (Gag_Roulette_Wheel(Release 1.0.0).ahk), which was written in AHK or AutoHotKey which is a great open source library for making code for working with games.
+
+-The Executable (Gag_Roulette_Wheel(Release 1.0.0).exe), which was Compiled using AHK.
+
+-the Screen Location Configuration File (Gag_Location_Index_Battle.txt).
+
+-And Finally the Content pack (phase_3.5.mf) used to darken the gag panel backgrounds, and lighten the gag panels.
+
+Some important things:
 
 1.In order for the program to run, Gag_Location_Index_Battle.txt must be in the same directory as the program's executable (Because it imports from it).
 
