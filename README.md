@@ -22,4 +22,4 @@ Make sure when you're calibrating you don't click directly on the gag, just hove
 It may take you a few battles to do this, that's alright, at any time if you want to stop and start again, just save a copy of Gag_Location_Index_Battle.txt and reopen the program. The Program Deletes the old Calibration file every time you restart it.
 You can directly modify Gag_Location_Index_Battle.txt in any text editor as well for fine tuning.
 
-You are also free to modify the source file as you see fit. It's written in autohotkey, so you'll have to download that to compile it.
+You are also free to modify the source file as you see fit. It's written in Autohotkey, so you'll have to download that to compile it.
