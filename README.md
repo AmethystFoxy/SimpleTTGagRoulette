@@ -2,6 +2,7 @@
 Just a simple Toontown Gag Roulette Wheel I threw together in a few hours based on the one I saw in Coach Z Evil Twin's "Roulette Wheel" Video
 
 Known Bugs: Sometimes The Roulette returns no Gag, which will register color-wise as 255 255 255, this allows the roulette to finish clicking on the last gag it landed on, which may or may not have any inventory left, Just run it again, and it should turn out fine.
+Toon-up Gags are currently not implemented(They can be randomly selected, but they will not automatically target other toons unless they are group Toon-up Gags, I will add this functionality later).
 
 This was made on a Windows 10 Machine, unknown if it works on Linux or Mac. Most likely not. I won't be creating a Linux or Mac Version regardless.
 
