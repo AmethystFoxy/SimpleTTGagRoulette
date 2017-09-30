@@ -3,6 +3,8 @@ Just a simple Toontown Gag Roulette Wheel I threw together in a few hours based 
 
 Known Bugs: Sometimes The Roulette returns no Gag, which will register color-wise as 255 255 255, this allows the roulette to finish clicking on the last gag it landed on, which may or may not have any inventory left, Just run it again, and it should turn out fine.
 
+This was made on a Windows 10 Machine, unknown if it works on Linux or Mac. Most likely not. I won't be creating a Linux or Mac Version regardless.
+
 The Three Files in this repository are: 
 The Source File (Gag_Roulette_Wheel(Release 1.0.0).ahk), which was written in AHK or AutoHotKey which is a great open source library for making code for working with games.
 The Executable (Gag_Roulette_Wheel(Release 1.0.0).exe), which was Compiled using AHK.
