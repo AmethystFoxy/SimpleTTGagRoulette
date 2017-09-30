@@ -69,13 +69,13 @@ Gags := Object()
 	;;Gags.Insert("Gyser")
 	
 	;;Drop
-	;;Gags.Insert("Flower_Pot")
-	;;Gags.Insert("SandBag")
-	;;Gags.Insert("Anvil")
-	;;Gags.Insert("10_Ton_Weight")
-	;;Gags.Insert("Safe")
-	;;Gags.Insert("Piano")
-	;;Gags.Insert("Toontanic")
+	Gags.Insert("Flower_Pot")
+	Gags.Insert("SandBag")
+	Gags.Insert("Anvil")
+	Gags.Insert("10_Ton_Weight")
+	Gags.Insert("Safe")
+	Gags.Insert("Piano")
+	Gags.Insert("Toontanic")
 
 ;;Create An object Containing all possible cog locations
 
