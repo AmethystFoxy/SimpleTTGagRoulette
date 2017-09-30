@@ -1,5 +1,5 @@
 # SimpleTTGagRoulette
-Just a simple Toontown Gag Roulette Wheel I threw together in a few hours based on the one I saw in Coach Z Evil Twin's "Roulette Wheel" Video.
+Just a simple Toontown Gag Roulette Wheel I threw together in a few hours based on the one I saw in Coach Z Evil Twin's "Roulette Wheel Episode 2" Video.
 
 The only big differences: There are no squares, Instead I use a user input calibration to record the locations of the buttons.
 
