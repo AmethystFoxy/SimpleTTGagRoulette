@@ -75,7 +75,7 @@ Gags := Object()
 	Gags.Insert("10_Ton_Weight")
 	Gags.Insert("Safe")
 	Gags.Insert("Piano")
-	Gags.Insert("Toontanic")
+	;;Gags.Insert("Toontanic")
 
 ;;Create An object Containing all possible cog locations
 
